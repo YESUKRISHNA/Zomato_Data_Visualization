@@ -1,2 +1,2 @@
 # Zomato_Data_Visualization
-Data_Analysis_Project3
+Data_Visualization_PowerBI
